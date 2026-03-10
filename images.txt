@@ -1,1 +1,2 @@
+docker.m.daocloud.io/ollama/ollama
 docker.io/ollama/ollama
