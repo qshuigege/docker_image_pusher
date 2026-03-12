@@ -1,2 +1,1 @@
-docker.m.daocloud.io/ollama/ollama
-docker.io/ollama/ollama
+nvidia/cuda:12.6-base-ubuntu24.04
