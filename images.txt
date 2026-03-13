@@ -1,1 +1,1 @@
-nvidia/cuda:11.7-base-ubuntu22.04
+linuxserver/webtop:ubuntu-kde
